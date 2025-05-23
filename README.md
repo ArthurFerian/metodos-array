@@ -1,4 +1,4 @@
 # Arquivo com métodos array.
 
-## Métodos 
+## Métodos:
 ### Push, pop, shift e unshit.
